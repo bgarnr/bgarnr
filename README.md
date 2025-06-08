@@ -7,7 +7,7 @@ I'm the **Chief Technology Architect** behind **Omnigeist** - a next-generation 
 
 ### 🎯 Current Focus: Omnigeist Platform
 **Revolutionizing storytelling through AI-first design**
-- 🏗️ **Architecture**: Clean Architecture with .NET0 9, Blazor Server, Entity Framework Core
+- 🏗️ **Architecture**: Clean Architecture with .NET 9, Blazor Server, Entity Framework Core
 - 🤖 **AI Integration**: OpenAI GPT-4, Semantic Kernel, custom AI copilot framework
 - 📊 **Vision**: Democratizing content creation from concept to serialized entertainment
 
@@ -22,15 +22,14 @@ I'm the **Chief Technology Architect** behind **Omnigeist** - a next-generation 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
-
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 
 ### **Data & Infrastructure**
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
 ### **Frontend & UX**
+![MudBlazor](https://img.shields.io/badge/MudBlazor-594AE2?style=for-the-badge&logo=blazor&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -38,6 +37,7 @@ I'm the **Chief Technology Architect** behind **Omnigeist** - a next-generation 
 ## 🎨 Omnigeist Innovation Highlights
 
 ### 🧠 **AI Copilot Architecture**
+- **Auto Tool Calling Copilot System** - Advanced function calling framework with intelligent routing
 - Custom multi-agent AI system with specialized personas
 - Context-aware assistance that adapts to user creativity patterns
 - Natural language interfaces that feel like collaborative partners
