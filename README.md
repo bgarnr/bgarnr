@@ -7,16 +7,14 @@ I'm the **Chief Technology Architect** behind **Omnigeist** - a next-generation 
 
 ### 🎯 Current Focus: Omnigeist Platform
 **Revolutionizing storytelling through AI-first design**
-- 🏗️ **Architecture**: Clean Architecture with .NET 8, Blazor Server, Entity Framework Core
-- 🤖 **AI Integration**: OpenAI GPT-4, Azure AI Services, custom AI copilot framework
-- 🌐 **Platform**: Multi-tenant SaaS with microservices architecture
+- 🏗️ **Architecture**: Clean Architecture with .NET0 9, Blazor Server, Entity Framework Core
+- 🤖 **AI Integration**: OpenAI GPT-4, Semantic Kernel, custom AI copilot framework
 - 📊 **Vision**: Democratizing content creation from concept to serialized entertainment
 
 ## 🏛️ Technical Leadership Philosophy
 - **AI-First Design**: Moving beyond simple LLM wrappers to create truly intelligent applications
 - **Context-Aware Systems**: Building applications where AI is a core participant, not an add-on
 - **Enterprise Scalability**: Designing for millions of users while maintaining performance
-- **Developer Experience**: Creating frameworks that empower teams to build faster
 
 ## 🛠️ Core Technology Stack
 
@@ -24,12 +22,7 @@ I'm the **Chief Technology Architect** behind **Omnigeist** - a next-generation 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-### **AI & Machine Learning**
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 ### **Data & Infrastructure**
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
